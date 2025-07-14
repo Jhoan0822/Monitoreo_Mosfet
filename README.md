@@ -1,16 +1,3 @@
-¡Claro que sí! Crear una buena documentación para tu código es fundamental para un portafolio profesional en GitHub.
-
-Aquí tienes el contenido completo, dividido en la descripción del repositorio y el archivo README.md.
-
-1. Descripción del Repositorio de GitHub
-
-Esta es la descripción corta que aparece debajo del nombre de tu repositorio. Debe ser concisa e informativa.
-
-Descripción:
-Arduino code for a project on monitoring MOSFET junction temperature by measuring Thermo-Sensitive Electrical Parameters (TSEPs) in real-time.
-
-2. Contenido para el Archivo README.md
-
 Crea un archivo llamado README.md en la raíz de tu repositorio y pega el siguiente contenido. Está formateado en Markdown para que se vea perfectamente en GitHub.
 
 Generated markdown
