@@ -1,6 +1,3 @@
-Crea un archivo llamado README.md en la raíz de tu repositorio y pega el siguiente contenido. Está formateado en Markdown para que se vea perfectamente en GitHub.
-
-Generated markdown
 # Monitoreo de Temperatura en MOSFETs usando Arduino
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
