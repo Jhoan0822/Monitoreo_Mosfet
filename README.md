@@ -71,7 +71,7 @@ Se utilizó un sistema de dos Arduinos para desacoplar la tarea de control (que 
 |---(VDS_acondicionado)---> [Arduino 2 (Pin A0)]
 |---(IDS_acondicionado)---> [Arduino 2 (Pin A1)]
 
-<img width="336" height="161" alt="circprot" src="https://github.com/user-attachments/assets/e03a36f6-fad1-4599-8ea9-a05c194a59bb" />
+![img20](https://github.com/user-attachments/assets/605e0d00-9812-4b44-a843-8d1da4705b26)
 
 
 ## 💡 Cómo Funciona el Código de Medición
